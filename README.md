@@ -58,17 +58,19 @@ Calculation:
 
 a.   KVL:
  
+![kvl](https://github.com/user-attachments/assets/e3935bc6-c70f-472e-86de-3c57082a4d70)
 
 
 b.  KCL:
 
+![kcl](https://github.com/user-attachments/assets/87555cf5-fe6a-41a4-96cc-6a6d7b0bccf2)
 
 
 
 Tabulation:
 
 a.   KVL:
- 
+
 
 
 b.  KCL:
